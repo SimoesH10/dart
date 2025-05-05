@@ -1,0 +1,12 @@
+import 'dart:async';
+import 'dart:collection';
+
+void main(){
+  int i = 10;
+
+
+  while (i >= 1) {
+    print(i);
+    i--;
+  }
+}
